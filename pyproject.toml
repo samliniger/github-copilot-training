@@ -11,6 +11,7 @@ dependencies = [
     "httpx>=0.27.0",
     "mypy>=1.18.2",
     "flake8",
+    "black",
 ]
 
 [dependency-groups]
